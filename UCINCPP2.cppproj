@@ -167,6 +167,12 @@
     </ToolchainSettings>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ADC.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="ADC.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="LCD.cpp">
       <SubType>compile</SubType>
     </Compile>
